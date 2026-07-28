@@ -1,2 +1,2 @@
 # Python-ITMO
-for working with itmo's python course 
+Домашние задания по курсу Python для анализа данных
