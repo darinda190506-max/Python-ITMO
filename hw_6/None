@@ -1,0 +1,7 @@
+Requirement already satisfied: scikit-learn in /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages (1.9.0)
+Requirement already satisfied: numpy>=1.24.1 in /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages (from scikit-learn) (2.3.5)
+Requirement already satisfied: scipy>=1.10.0 in /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages (from scikit-learn) (1.18.1)
+Requirement already satisfied: joblib>=1.4.0 in /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages (from scikit-learn) (1.6.0)
+Requirement already satisfied: narwhals>=2.0.1 in /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages (from scikit-learn) (2.25.0)
+Requirement already satisfied: threadpoolctl>=3.5.0 in /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages (from scikit-learn) (3.6.0)
+Requirement already satisfied: cloudpickle>=3.0 in /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages (from joblib>=1.4.0->scikit-learn) (3.1.2)
